@@ -10,13 +10,13 @@ This project aims to design a framework that predicts LL100 index movements by a
 
 ## **Repository Structure**
 
-backtest.py              # Backtesting script for evaluating strategies
-eval.py                  # Evaluation metrics and model performance analysis
-project1.ipynb.zip       # Jupyter notebook with the main analysis (zipped)
-rolling_window_finetune.py  # Rolling window approach and parameter tuning
-data/                        # Data files used for analysis and modeling
-temp_result/                 # Outputs and reports
-Project1_Report.pdf      # Detailed project report
+- backtest.py              # Backtesting script for evaluating strategies
+- eval.py                  # Evaluation metrics and model performance analysis
+- project1.ipynb.zip       # Jupyter notebook with the main analysis (zipped)
+- rolling_window_finetune.py  # Rolling window approach and parameter tuning
+- data/                        # Data files used for analysis and modeling
+- temp_result/                 # Outputs and reports
+- Project1_Report.pdf      # Detailed project report
 
 
 
