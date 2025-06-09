@@ -9,7 +9,7 @@ This project aims to design a framework that predicts LL100 index movements by a
 ---
 
 ## **Repository Structure**
-
+'''
 ├── data/                        # Data files used for analysis and modeling
 ├── temp_result/                 # Outputs and reports
 │   ├── Project1_Report.pdf      # Detailed project report
@@ -19,8 +19,7 @@ This project aims to design a framework that predicts LL100 index movements by a
 │   ├── project1.ipynb.zip       # Jupyter notebook with the main analysis (zipped)
 │   ├── rolling_window_finetune.py  # Rolling window approach and parameter tuning
 
-
-You can copy and paste this into your `README.md` or any other documentation file. Let me know if you need further modifications!
+'''
 
 ---
 
